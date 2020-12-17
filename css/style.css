@@ -86,6 +86,20 @@ header nav a:hover {
 
 .button i {
     margin-right: 8px;
-} 
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.film-principal .container {
+    width: 50%;
+}
+
+.box-film {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
 
 
