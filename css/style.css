@@ -75,6 +75,8 @@ header nav a:hover {
     margin-right: 15px;
     font-size: 12px;
 
+    text-decoration: none;
+
     cursor: pointer;
     transition: .3s ease all;
 }
@@ -84,7 +86,7 @@ header nav a:hover {
     color: black;
 }
 
-.button i {
+.button a i {
     margin-right: 8px;
 }
 
